@@ -13,3 +13,6 @@ AKIAIE4MTNGWHFOEB7UQ
 
 Secret Access Key:
 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
+
+
+kmConversationStarted
